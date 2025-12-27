@@ -2,4 +2,10 @@
 using LeetCode;
 
 Console.WriteLine("Hello, World!");
-_26_RemoveDuplicatesfromSortedArray.RemoveDuplicates(new int[] { 1, 1, 2 });
+ListNode head = new ListNode(1, new ListNode(2, null));
+            //new ListNode(3,
+            //    new ListNode(4,
+            //        new ListNode(5)))));
+
+int n = 2;
+ListNode result = _19_RemoveNthNodeFromEndList.RemoveNthFromEnd(head, n);
