@@ -10,5 +10,4 @@ ListNode head = new ListNode(1,
 
 int x = 3/2;
 
-string str = ")()())()()()";
-_35_SearchInsertPosition.SearchInsert([1, 3, 5], 4);
+_39_CombinationSum.CombinationSum([], 1);
