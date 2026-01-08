@@ -10,4 +10,4 @@ ListNode head = new ListNode(1,
 
 int x = 3/2;
 
-_39_CombinationSum.CombinationSum([], 1);
+_39_CombinationSum.CombinationSum([2, 3, 6, 7], 7);
