@@ -1,4 +1,4 @@
 ﻿using LeetCode;
 
-_739_Daily_Temperatures.DailyTemperatures([73, 74, 75, 71, 69, 72, 76, 73]);
+_162_Find_Peak_Element.FindPeakElement([1, 2, 3, 1]);
 Console.WriteLine();
